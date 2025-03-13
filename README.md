@@ -1,4 +1,4 @@
-Disponibilizado código do canal Radamés Kremer do YouTube (https://www.youtube.com/watch?v=s5ZFNMpbJT0), Testado em 10/03/2025.
+Disponibilizado código do canal Radamés Kremer do YouTube "Instalação do GLPI no Ubuntu 20.04,22.04 ou 24.04 só com um comando" (https://www.youtube.com/watch?v=s5ZFNMpbJT0), Testado em 10/03/2025.
 O arquivo instala.sh possui o código para a instalação, se não tiver como colar ou baixar no seu servidor acesse via SSH:
 
 O SSH (Secure Shell) é um protocolo que permite acesso remoto seguro a um servidor. Ao combinar SSH com o GitHub, você pode gerenciar seus repositórios de forma mais eficiente e segura. Aqui está um guia passo a passo sobre como usar SSH no Ubuntu Server com a ajuda do GitHub:
