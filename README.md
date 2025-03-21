@@ -6,10 +6,13 @@ sudo apt install git
 
 Escolha onde você quer colocar os arquivos do repositório.
 cd /caminho/do/diretorio/desejado
+
+Faça o clone do repositório:
 git clone https://github.com/EmersonSales/GLPI
 
-navegue até a pasta que está o script
+Navegue até a pasta que está o script:
 cd GLPI
+
 Dê permissão de execução para o script
 chmod +x instala.sh
 
