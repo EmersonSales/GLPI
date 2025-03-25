@@ -1,0 +1,1 @@
+unzip customlogin.zip -d /var/www/html/glpi/plugins
