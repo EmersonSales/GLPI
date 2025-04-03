@@ -2,6 +2,7 @@ Disponibilizado código do canal Radamés Kremer do YouTube "Instalação do GLP
 O arquivo instala.sh possui o código para a instalação, se não tiver como colar ou baixar no seu servidor acesse via clone GIT
 
 sudo apt update
+
 sudo apt install git
 
 Escolha onde você quer colocar os arquivos do repositório.
